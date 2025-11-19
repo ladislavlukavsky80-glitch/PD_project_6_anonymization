@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Modely – NEPATŘÍ na GitHub
+models/
+*.h5
+*.hdf5
+
+# Výstupy a data
+preprocessed_anon/
+preprocessed_pages/
+results/
+final_results/
+cell_dataset_for_convolution/
+*.zip

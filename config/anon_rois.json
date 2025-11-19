@@ -1,0 +1,15 @@
+{
+  "template_image": "Templates\\IPDdiaries_scan_07.png",
+  "rois": [
+    {
+      "name": "anon_1",
+      "type": "blackout",
+      "bbox": [
+        3,
+        0,
+        176,
+        1737
+      ]
+    }
+  ]
+}
