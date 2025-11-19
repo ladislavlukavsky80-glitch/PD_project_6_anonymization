@@ -1,0 +1,13 @@
+models/
+
+preprocessed_anon/
+
+preprocessed_pages/
+
+results/
+
+final_results/
+
+cell_dataset_for_convolution/
+
+Original_pages/
